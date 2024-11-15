@@ -82,7 +82,7 @@
 
 #testimonials {
   color: #fff;
-  background: url(/images/testimonial-bg.jpg) no-repeat 0 0;
+  background: url(./images/testimonial-bg.jpg) no-repeat 0 0;
   background-size: cover;
   padding: 50px 0;
   position: relative;
